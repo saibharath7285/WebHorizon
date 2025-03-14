@@ -1,0 +1,6 @@
+@WebHorizon_HostAddress = http://localhost:5237
+
+GET {{WebHorizon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
