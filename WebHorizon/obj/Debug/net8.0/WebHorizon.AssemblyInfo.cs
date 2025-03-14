@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebHorizon")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bc627aa34a0d6f3002be3da21bc7e12930d0678c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e960b2aad0f6d37a93a11820dc6869cfcd54fe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebHorizon")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebHorizon")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
